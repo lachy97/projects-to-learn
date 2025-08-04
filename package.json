@@ -1,0 +1,21 @@
+{
+  "name": "projects-to-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lachy97/projects-to-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lachy97/projects-to-learn/issues"
+  },
+  "homepage": "https://github.com/lachy97/projects-to-learn#readme"
+}
